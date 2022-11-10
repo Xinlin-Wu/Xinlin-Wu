@@ -1,6 +1,6 @@
 ### Hi there 👋
-I’m currently a senior student of Kuangyaming Hornor School, Nanjing University. My major is Math and Applied Math. I am mainly interested in analysis
-of partial differential equations
+- 🔭 I’m currently a senior student of Kuangyaming Hornor School, Nanjing University. My major is Math and Applied Math. I am mainly interested in analysis
+of partial differential equations. 
 
 <!--
 **Xinlin-Wu/Xinlin-Wu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
