@@ -1,4 +1,5 @@
 ### Hi there 👋
+I’m currently a senior student of Kuangyaming Hornor School, Nanjing University.
 
 <!--
 **Xinlin-Wu/Xinlin-Wu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
