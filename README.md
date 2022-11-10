@@ -1,7 +1,9 @@
 ### Hi there 👋
 - 🔭 I’m currently a senior student of Kuangyaming Hornor School, Nanjing University. My major is Math and Applied Math. I am mainly interested in analysis
 of partial differential equations. 
-
+- 🌱 I’m currently learning the second order parabolic differential equations. I am going to learn second order elliptic differential equations and some 
+basic knowledge of nonlinear analysis.
+- 📫 How to reach me: Although my primary email is 1139398758@qq.com in this account, I am now mainly using 191240059@smail.nju.edu.cn
 <!--
 **Xinlin-Wu/Xinlin-Wu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
